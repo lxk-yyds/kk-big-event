@@ -1,6 +1,6 @@
 # big-event
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个springboot+vue3的练习项目
 
 ## Recommended IDE Setup
 
